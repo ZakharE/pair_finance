@@ -1,10 +1,5 @@
 package pair.finance;
 
-import java.io.*;
-import java.util.HashMap;
-import java.util.Map;
-import java.util.Scanner;
-
 import static pair.finance.FindMajority.findMajority;
 
 public class Main {
